@@ -22,7 +22,6 @@ Smart Expense Tracker helps users record their daily spending, set a monthly bud
 | Interface | Tkinter |
 | Charts | Matplotlib |
 | Storage | JSON files (one per user) |
-| Security | `hashlib` PBKDF2-SHA256 with random salt |
 
 ## Getting Started
 
