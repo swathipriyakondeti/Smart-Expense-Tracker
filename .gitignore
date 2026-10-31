@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Only the demo account is committed; any other local accounts stay private
+users_data/*
+!users_data/users.json
+!users_data/swathi.json
